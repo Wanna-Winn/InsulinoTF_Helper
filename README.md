@@ -12,3 +12,7 @@ Cet Excel permet :
 - Le calcul automatique des corrections selon un profil donné.
 - Le calcul automatique des doses à faire lors d'un repas, basé sur la glycémie à T0 et le nombre de glucides.
 - L'adaption de l'algo en fonction des résultats précédents à T+3h.
+
+## Stockage
+
+Cet Excel peut être stocké sur un téléphone/PC ou synchronisé via Cloud pour un accès plus libre et sauvegardé.
